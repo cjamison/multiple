@@ -1,0 +1,5 @@
+== README
+
+Basic rails application to test deployment during the Discover Ansible Course
+
+http://www.discoveransible.com
